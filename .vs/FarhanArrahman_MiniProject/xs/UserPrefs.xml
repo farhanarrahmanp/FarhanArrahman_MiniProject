@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{C2223F55-FE2A-4623-8A86-1660F92AB875}|Default">
+  <MonoDevelop.Ide.ItemProperties.FarhanArrahman__MiniProject FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="FarhanArrahman_MiniProject/Program.cs">
+    <Files>
+      <File FileName="FarhanArrahman_MiniProject/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FarhanArrahman_MiniProject" expanded="True">
+            <Node name="FarhanArrahman_MiniProject" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
